@@ -1,32 +1,41 @@
-# GitHub Practical
+GitHub Practical
 
-A simple repository for practicing Python, Git, and GitHub.
+A simple repository created for practicing Python programming, Git, and GitHub.
 
-Description
+📌 Description
 
-This project contains basic Python programs and practical exercises.
+This project contains basic Python programs and practical exercises designed to improve programming and version-control skills.
 
-More details about the project will be added here later.
+The repository will be updated regularly with new programs and exercises.
 
-# Project Structure
+📂 Project Structure
 github-practical/
 │
 ├── calculator.py
 ├── sum.py
 └── README.md
 
-# How to Run
-```python calculator.py```
+▶️ How to Run
 
-```python sum.py```
+Make sure Python is installed on your system.
 
-# Features
+Run the calculator program:
+
+python calculator.py
+
+
+Run the sum program:
+
+python sum.py
+
+✨ Features
 Basic Python programs
-Practice with Git and GitHub
-Simple and easy-to-understand code
-Future Updates
+Simple programming exercises
+Git and GitHub practice
+Easy-to-understand code
+Regular updates with new programs
 
-More programs, features, and documentation will be added to this repository.
+👨‍💻 Author
+Niraj Kumbhar
 
-# Author
-## Niraj Kumbhar
+This repository is created for learning and practicing Python, Git, and GitHub.
